@@ -1,0 +1,10 @@
+Particle {
+ AlbedoMap "{24258A1DFF550576}InediaInfectedAI/graphics/particles/sprites/inedia_blood_pool.edds"
+ Color 0.1 0.1 0.1 1
+ Ambient 0 0 0 1
+ Emissive 0.15 0.15 0.15 0
+ Sort translucent
+ TileU 2
+ TileV 2
+ CameraBlendFar 0.1
+}

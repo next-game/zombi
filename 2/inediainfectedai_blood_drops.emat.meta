@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{82863600E1234A7F}InediaInfectedAI/graphics/particles/materials/enviroment/inediainfectedai_blood_drops.emat"
+ Author "computer"
+ ChangeDate -1822052027
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass LINUX : PC {
+  }
+ }
+}

@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{D7A0A3317FF43E51}InediaInfectedAI/graphics/particles/materials/enviroment/inediainfectedai_blood_splatter.emat"
+ Author "computer"
+ ChangeDate -1567084213
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass LINUX : PC {
+  }
+ }
+}

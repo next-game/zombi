@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{622EF29467B5AB31}InediaInfectedAI/graphics/particles/materials/enviroment/inediainfectedai_blood_pool.emat"
+ Author "computer"
+ ChangeDate 1603285328
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass LINUX : PC {
+  }
+ }
+}

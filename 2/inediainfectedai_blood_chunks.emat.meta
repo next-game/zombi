@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{C2CE621BD89A2DA5}InediaInfectedAI/graphics/particles/materials/enviroment/inediainfectedai_blood_chunks.emat"
+ Author "computer"
+ ChangeDate -1516015256
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass LINUX : PC {
+  }
+ }
+}
